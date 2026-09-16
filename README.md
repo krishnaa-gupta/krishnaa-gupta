@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=3B9CFF&center=true&vCenter=true&width=650&height=50&lines=AWS+Cloud+Intern;Cloud+%26+DevOps+Enthusiast;AWS+%7C+DevOps+%7C+Automation;Building+Real-World+Cloud+Projects" alt="Typing SVG" />
 
-<br>
-
-<a href="https://krishna-devops-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Portfolio-55D6FF?style=for-the-badge"/>
-</a>
-
 </div>
 
 ---
